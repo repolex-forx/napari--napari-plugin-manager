@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/napari/napari-plugin-manager/commit/97739a8ca99f27bf866af76b584c3b9bdde58278",
       "git:hexsha": "97739a8ca99f27bf866af76b584c3b9bdde58278",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.12"
     },
     {
